@@ -1,0 +1,14 @@
+Package: me.nepeta.begonecia
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Matt <baconfan02@gmail.com>
+Depends: mobilesubstrate
+Filename: /BegoneCIA.deb
+Size: 70892
+MD5sum: 2ac480c2149087ba1eac9a5370b1c6e1
+SHA1: 44e35036b491f0fbe1216954ff24544cce9f2502
+SHA256: b49cd182e1c873370ad4a3f3adcdbd1fae8f287ee0eab0bcbab3f04f1069276c
+Section: Tweaks
+Description: Disable Camera And Mic With a CC Toggle (iOS 14)
+Author: Nepeta <ominousness@protonmail.com>
+Name: BegoneCIA (iOS 14)
